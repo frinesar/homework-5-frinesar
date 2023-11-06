@@ -1,5 +1,5 @@
 # Homework 5. Git commands
-## Telegram: [frinesar]("https://t.me/Frinesar")
+## Telegram: [frinesar](https://t.me/Frinesar)
 
 ### В результаті було:
 1. Створено репозиторій та додано README.
